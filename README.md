@@ -1,4 +1,4 @@
-# Dibuat oleh Salsabila Chairunnisa  
+# Salsabila Chairunnisa / NIM : 352310495 
 # Penggunaan Fungsi Def/Sub Rutin
 
 Program ini dirancang untuk mengelola data mahasiswa dengan beberapa fungsi utama: menambah, menampilkan, menghapus, dan mengubah data mahasiswa. Data mahasiswa disimpan dalam bentuk daftar (list).
@@ -59,7 +59,7 @@ Di bagian akhir program, terdapat contoh penggunaan fungsi-fungsi yang telah did
 4. Menghapus data Sarjono dari daftar.
 5. Menampilkan daftar mahasiswa terakhir setelah perubahan dan penghapusan.
 
-## 4. Berikut ini tampilan perintah program dalam phyton :
+## 4. Berikut ini perintah program dalam phyton :
 
 ![perintah program 1](https://github.com/user-attachments/assets/e30a3608-f8c4-4f0d-8365-f805129ae91f)
 
@@ -69,4 +69,9 @@ Di bagian akhir program, terdapat contoh penggunaan fungsi-fungsi yang telah did
 ## 5. Output (RUN) dari perintah program tersebut tampilannya sebagai berikut :
 
 ![run](https://github.com/user-attachments/assets/bc58c1d8-e101-4f75-88b6-ed07d981e988)
+
+## 6. Flowchart proses : 
+
+![flowchart](https://github.com/user-attachments/assets/47748b33-f299-41d2-90fd-8c560275c5bb)
+
 
