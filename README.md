@@ -62,6 +62,8 @@ Di bagian akhir program, terdapat contoh penggunaan fungsi-fungsi yang telah did
 ## berikut ini tampilan perintah program dalam phyton :
 
 ![perintah program 1](https://github.com/user-attachments/assets/e30a3608-f8c4-4f0d-8365-f805129ae91f)
+
+
 ![perintah program 2](https://github.com/user-attachments/assets/226c4a3d-11e1-4cbc-8715-a37f26b89c5b)
 
 ## Output (RUN) dari perintah program tersebut tampilannya sebagai berikut :
