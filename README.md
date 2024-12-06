@@ -1,7 +1,7 @@
 # Dibuat oleh Salsabila Chairunnisa  
 # Penggunaan Fungsi Def/Sub Rutin
 
-Program ini dirancang untuk mengelola data mahasiswa dengan beberapa fungsi utama: menambah, menampilkan, menghapus, dan mengubah data mahasiswa. Data mahasiswa disimpan dalam bentuk daftar (list) yang berisi dictionary, di mana setiap dictionary menyimpan nama dan nilai mahasiswa.
+Program ini dirancang untuk mengelola data mahasiswa dengan beberapa fungsi utama: menambah, menampilkan, menghapus, dan mengubah data mahasiswa. Data mahasiswa disimpan dalam bentuk daftar (list).
 
 ## 1. Struktur Program
 
@@ -59,14 +59,14 @@ Di bagian akhir program, terdapat contoh penggunaan fungsi-fungsi yang telah did
 4. Menghapus data Sarjono dari daftar.
 5. Menampilkan daftar mahasiswa terakhir setelah perubahan dan penghapusan.
 
-## berikut ini tampilan perintah program dalam phyton :
+## 4. Berikut ini tampilan perintah program dalam phyton :
 
 ![perintah program 1](https://github.com/user-attachments/assets/e30a3608-f8c4-4f0d-8365-f805129ae91f)
 
 
 ![perintah program 2](https://github.com/user-attachments/assets/226c4a3d-11e1-4cbc-8715-a37f26b89c5b)
 
-## Output (RUN) dari perintah program tersebut tampilannya sebagai berikut :
+## 5. Output (RUN) dari perintah program tersebut tampilannya sebagai berikut :
 
 ![run](https://github.com/user-attachments/assets/bc58c1d8-e101-4f75-88b6-ed07d981e988)
 
